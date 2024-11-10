@@ -1,0 +1,253 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0023)http://michaelryoo.com/ -->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	
+
+	<title>Michael Ryoo : M. S. Ryoo</title>
+	<style type="text/css">
+	a {
+		text-decoration:none;
+	}
+	a:link {
+		color: #045FB4;
+	}
+	a:visited {
+		color: #045FB4;
+	}
+	body {
+		font-family:Arial;
+		font-size: 15px;
+	}
+	ul {
+		padding: 0px;
+		padding-left:35px;
+		margin-top: 0px;
+		margin-bottom:10pt;
+	}
+	li {
+		padding: 5px;
+	}
+	h4{
+	    padding: 0px;
+	    margin: 0px;
+	}
+	</style>
+</head>
+
+<body bgcolor="white">
+
+
+<table style="width: 1024px;" border="0" cellpadding="15" cellspacing="0"> 
+
+<tbody><tr><td>
+
+
+<table border="0" cellpadding="3" align="top">
+	<tbody><tr>
+		<td>
+			<img src="./images/michael.jpg">
+		</td>
+		<td>
+			<span style="font-size: 20px;"><b>Michael S. Ryoo</b></span><br>
+			<span style="font-size: 17px;"><b>Ph.D.</b><br>
+
+			<br>
+			<span style="font-size: 16px;">SUNY Empire Innovation Associate Professor<br>
+			<span style="font-size: 16px;"><a href="https://www.cs.stonybrook.edu/" target="_blank">Department of Computer Science</a>; <a href="https://ai.stonybrook.edu/" target="_blank">AI Institute</a><br>
+			<span style="font-size: 16px;">Stony Brook University<br>
+			<br>
+
+			<span style="font-size: 16px;">Principal Research Scientist<br>
+			<span style="font-size: 16px;"><a href="https://www.salesforceairesearch.com/" target="_blank">Salesforce AI Research</a><br>
+			<br>
+
+
+<br>
+
+			<span style="font-size: 16px;"><b>Contact</b><br>
+			<a href="mailto:mryoo@cs.stonybrook.edu">mryoo-at-cs.stonybrook.edu</a>
+		</span></span></span></span></span></span></span></td>
+	</tr>
+</tbody></table><br>
+
+I recently joined the AI research team at Salesforce. Prior to that, I was with the robotics team at Google DeepMind (and formerly Google Brain) for 5.5 years. I also hold a tenured position in the Department of Computer Science (CS) at <a href="https://www.stonybrook.edu/" target="_blank">Stony Brook University</a> as an associate professor. Previously, I was an assistant professor at <a href="https://www.indiana.edu/" target="_blank">Indiana University Bloomington</a>, and was a staff researcher within the Robotics Section of the NASA's <a href="http://www.jpl.nasa.gov/" target="_blank">Jet Propulsion Laboratory</a> (JPL). I received my Ph.D. from the University of Texas at Austin in 2008 and B.S. from Korea Advanced Institute of Science and Technology (KAIST) in 2004.
+
+
+<br><br>
+
+<hr style="width: 100%; height: 2px;">
+
+<b><span style="font-size: 18px; color: red;">Recent News</span></b> <br>
+
+<table>
+
+<tbody>
+
+<tr><td class="newsdate" valign="top"><span class="newsdate"><b>2024/06:</b></span> </td><td> 
+Introducing <a href="https://github.com/LostXine/LLaRA" target="_blank">LLaRA: Supercharging Robot Learning Data for Vision-Language Policy</a>. It is a framework designed for robot learning of VLMs as action policies.<br> 
+
+<tr><td class="newsdate" valign="top"><span class="newsdate"><b>2024/05:</b></span> </td><td> 
+<a href="https://sites.google.com/view/rtsara/" target="_blank">SARA-RT: Scaling up Robotics Transformers with Self-Adaptive Robust Attention</a> received the Best Paper Award in Robot Manipulation at ICRA 2024.<br> 
+
+<tr><td class="newsdate" valign="top"><span class="newsdate"><b>2024/03:</b></span> </td><td> 
+<a href="https://blog.research.google/2023/11/scaling-multimodal-understanding-to.html" target="_blank">Mirasol3B</a> is out! It's new a *video-based* multimodal language model across audio, video, and text modalities. It will be presented at CVPR 2024.<br> 
+
+<tr><td class="newsdate" valign="top"><span class="newsdate"><b>2023/09:</b></span> </td><td> 
+<a href="https://robotics-transformer2.github.io/" target="_blank">RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control</a> at CoRL 2023!<br> 
+
+<tr><td class="newsdate" valign="top"><span class="newsdate"><b>2023/07:</b></span> </td><td>
+<a href="https://diffusionillusions.com/" target="_blank">Diffusion Illusions: Hiding Images in Plain Sight</a> received CVPR 2023 Outstanding Demo Award.<br>
+
+<img src="cropped_diffusion_illusions_small.gif" height=160><br>
+
+It is based on the same lossed used in
+<a href="https://arxiv.org/abs/2211.13224" target="_blank">Peekaboo: Text to Image Diffusion Models are Zero-Shot Segmentors</a><br>
+
+<tr><td class="newsdate" valign="top"><span class="newsdate"><b>2023/07:</b></span> </td><td> 
+<a href="https://ai.googleblog.com/2022/12/rt-1-robotics-transformer-for-real.html" target="_blank">RT-1: Robotics Transformer for Real-World Control at Scale</a> at RSS 2023!<br>
+
+<img src="rt1_mosaic_comp_small2.gif" height=160>
+
+
+<tr><td class="newsdate" valign="top"><span class="newsdate"><b>2023/06:</b></span> </td><td> 
+<a href="https://arxiv.org/abs/2211.09119" target="_blank">Token Turing Machines</a>, a new sequential model modernizing Neural Turing Machines was presented at CVPR 2023. <a href="https://twitter.com/ryoo_michael/status/1664648204032393219" target="_blank">[video]</a><br> 
+
+<tr><td class="newsdate" valign="top"><span class="newsdate"><b>2022/10:</b></span> </td><td> 
+<a href="https://tritonpaper.github.io/" target="_blank">Neural Neural Textures Make Sim2Real Consistent</a> at CoRL 2022<br>
+
+<tr><td class="newsdate" valign="top"><span class="newsdate"><b>2022/10:</b></span> </td><td> 
+Two papers at NeurIPS 2022:<br>
+	<a href="https://www3.cs.stonybrook.edu/~jishang/3dtrl/3dtrl.html" target="_blank">Learning Viewpoint-Agnostic Visual Representations by Recovering Tokens in 3D Space</a><br>
+	<a href="https://arxiv.org/abs/2206.05266" target="_blank">Does Self-supervised Learning Really Improve Reinforcement Learning from Pixels?</a>
+
+<tr><td class="newsdate" valign="top"><span class="newsdate"><b>2022/08:</b></span> </td><td> 
+<a href="https://arxiv.org/abs/2110.06206" target="_blank">StARformer: Transformer with State-Action-Reward Representations</a> and <a href="https://arxiv.org/abs/2208.00934" target="_blank">Video Question Answering with Iterative Video-Text Co-Tokenization</a> were presented at ECCV 2022.
+
+<tr><td class="newsdate" valign="top"><span class="newsdate"><b>2022/03:</b></span> </td><td> 
+Two papers at CVPR 2022. One paper as an oral and the other as a poster:<br>
+<a href="https://arxiv.org/abs/2112.01514" target="_blank">Self-supervised Video Transformer</a><br>
+<a href="https://arxiv.org/abs/2112.03902" target="_blank">MS-TCT: Multi-Scale Temporal ConvTransformer for Action Detection</a>
+
+<tr><td class="newsdate" valign="top"><span class="newsdate"><b>2021/06:</b></span> </td><td> Check <a href="https://ai.googleblog.com/2021/12/improving-vision-transformer-efficiency.html" target="_blank">TokenLearner</a> for images and videos! It learns to adaptively generate a small number of tokens for Transformers, providing better accuracies while also being faster. The paper also appeared at NeurIPS 2021.
+
+<img src="https://blogger.googleusercontent.com/img/a/AVvXsEiylT3_nmd9-tzTnz3g3Vb4eTn-L5sOwtGJOad6t2we7FsjXSpbLDpuPrlInAhtE5hGCA_PfYTJtrIOKfLYLYGcYXVh1Ksfh_C1ZC-C8gw6GKtvrQesKoMrEA_LU_Gd5srl5-3iZDgJc1iyCELoXtfuIXKJ2ADDHOBaUjhU8lXTVdr2E7bCVaFgVHHkmA=s1600" height=160>
+
+</td></tr><tr><td class="newsdate" valign="top"><span class="newsdate"><b>2021/04:</b></span> </td><td> <a href="https://arxiv.org/abs/2103.16516" target="_blank">Recognizing Actions in Videos from Unseen Viewpoints</a> and <a href="https://arxiv.org/abs/2103.01302" target="_blank">Coarse-Fine Networks for Temporal Activity Detection in Videos</a> at CVPR 2021.
+
+</td></tr><tr><td class="newsdate" valign="top"><span class="newsdate"><b>2021/04:</b></span> </td><td> Neural architecture search for robot reinforcement learning at ICRA 2021: <a href="https://arxiv.org/abs/2103.14633" target="_blank">Visionary: Vision Architecture Discovery for Robot Learning</a>
+
+
+</td></tr></tbody></table>
+
+
+<hr style="width: 100%; height: 2px;">
+<h2>Curriculum Vitae <a href="http://michaelryoo.com/cv_ryoo_2024.pdf" target="_blank">pdf</a></h2>
+
+
+<hr style="width: 100%; height: 2px;">
+<h2>Publications <span style="font-size: 18px;"> [<a href="http://michaelryoo.com/publications.html">by type</a>] [<a href="http://michaelryoo.com/publications_year.html">by year</a>]</span></h2>
+
+<span style="font-size: 13px; font-family: lucida grande, verdana, sans-serif;">
+<h3>List of selected publications</h3>
+
+<ul>
+
+<li>Piergiovanni, Noble, Kim, <u>Ryoo</u>, Gomes, Angelova, <a href="https://blog.research.google/2023/11/scaling-multimodal-understanding-to.html" target="_blank">Mirasol3B: A Multimodal
+Autoregressive Model for Time-aligned and Contextual Modalities</a>, CVPR 2024</li>
+
+<li>Kahatapitiya, Arnab, Nagrani, <u>Ryoo</u>, <a href="https://arxiv.org/abs/2304.02560" target="_blank">VicTR: Video-conditioned Text Representations for Activity Recognition</a>, CVPR 2024</li>
+
+<li>Researchers in Google DeepMind Robotics, <a href="https://robotics-transformer2.github.io/" target="_blank">RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control</a>, CoRL 2023</li>
+
+<li>Shang and <u>Ryoo</u>, <a href="https://elicassion.github.io/sugarl/sugarl.html" target="_blank">Active Vision Reinforcement Learning under Limited Visual Observability</a>, NeurIPS 2023</li>
+
+<li><u>Ryoo</u>, Gopalakrishnan, Kahatapitiya, Xiao, Rao, Stone, Lu, Ibarz, Arnab, <a href="https://arxiv.org/abs/2211.09119" target="_blank">Token Turing Machines</a>, CVPR 2023</li>
+
+<li>Burgert, Li, Leite, Ranasinghe, <u>Ryoo</u>, <a href="https://diffusionillusions.com/" target="_blank">Diffusion Illusions: Hiding Images in Plain Sight</a>, CVPR 2023 Demo</li>
+
+<li>Researchers in Robotics at Google, <a href="https://robotics-transformer.github.io/" target="_blank">RT-1: Robotics Transformer for Real-World Control at Scale</a>, RSS 2023</li>
+
+<li>Burgert, Shang, Li, <u>Ryoo</u>, <a href="https://tritonpaper.github.io/" target="_blank"> Neural Neural Textures Make Sim2Real Consistent</a>, CoRL 2022</li>
+
+<li>Li, Shang, Das, <u>Ryoo</u>, <a href="https://arxiv.org/abs/2206.05266" target="_blank">Does Self-supervised Learning Really Improve Reinforcement Learning from Pixels?</a>, NeurIPS 2022</li>
+
+<li><u>Ryoo</u>, Piergiovanni, Arnab, Dehghani, Angelova, <a href="https://ai.googleblog.com/2021/12/improving-vision-transformer-efficiency.html7" target="_blank">TokenLearner: Adaptive Space-Time Tokenization for Videos</a>, NeurIPS 2021</li>
+
+<li>Akinola, Angelova, Lu, Chebotar, Kalashnikov, Varley, Ibarz, <u>Ryoo</u>, <a href="https://arxiv.org/abs/2103.14633" target="_blank">Visionary: Vision Architecture Discovery for Robot Learning</a>, ICRA 2021</li>
+
+<li>Piergiovanni, Angelova, <u>Ryoo</u>, <a href="https://arxiv.org/abs/2002.12177" target="_blank">Evolving Losses for Unsupervised Video Representation Learning</a>, CVPR 2020</li>
+
+<li><u>Ryoo</u>, Piergiovanni, Tan, Angelova, <a href="https://ai.googleblog.com/2019/10/video-architecture-search.html" target="_blank">AssembleNet: Searching for Multi-Stream Neural Connectivity in Video Architectures</a>, ICLR 2020</li>
+
+<li>Piergiovanni, Angelova, <u>Ryoo</u>, <a href="https://arxiv.org/abs/1902.00505" target="_blank">Differentiable Grammars for videos</a>, AAAI 2020</li>
+
+<li>Piergiovanni, Wu, <u>Ryoo</u>, <a href="https://piergiaj.github.io/robot-dreaming-policy/" target="_blank">Learning Real-World Robot Policies by Dreaming</a>, IROS 2019</li>
+
+<li>Piergiovanni and <u>Ryoo</u>, <a href="https://github.com/piergiaj/tgm-icml19" target="_blank">Temporal Gaussian Mixture Layer for Videos</a>, ICML 2019</li>
+
+<li>Piergiovanni and <u>Ryoo</u>, <a href="https://github.com/piergiaj/representation-flow-cvpr19" target="_blank">Representation Flow for Action Recognition</a>, CVPR 2019</li>
+
+<li>Ren, Lee, <u>Ryoo</u>, <a href="https://jason718.github.io/project/privacy/main.html" target="_blank">Learning to Anonymize Faces for Privacy Preserving Action Detection</a>, ECCV 2018</li>
+
+</ul>
+
+</span>
+
+<a href="http://scholar.google.com/citations?user=vcw0TJIAAAAJ&amp;hl=en" target="_blank">Google Scholar: Michael S. Ryoo</a>
+
+<hr style="width: 100%; height: 2px;">
+<h2>Datasets</h2>
+
+<a href="https://github.com/piergiaj/AViD" target="_blank">AViD dataset</a>: Anonymized Videos from Diverse Countries.<br>
+
+<a href="https://github.com/piergiaj/mlb-youtube" target="_blank">MLB-YouTube dataset</a>: an activity recognition dataset with over 42 hours of 2017 MLB post-season baseball videos.<br>
+
+<a href="http://michaelryoo.com/jpl-interaction.html" target="_blank">JPL-Interaction dataset</a>: a <i>robot-centric</i> first-person video dataset.<br>
+
+<a href="http://robotics.ait.kyushu-u.ac.jp/~yumi/db/first_dog.html" target="_blank">DogCentric Activity dataset</a>: a <i>first-person</i> video dataset taken with dogs.<br>
+
+<a href="http://cvrc.ece.utexas.edu/SDHA2010/Human_Interaction.html" target="_blank">UT-Interaction dataset</a>: a dataset containing continuous/segmented videos of human-human interactions.<br>
+
+
+<hr style="width: 100%; height: 2px;">
+<h2>Lab members</h2>
+Cristina Mata (Stony Brook University CS)<br>
+<a href="https://www3.cs.stonybrook.edu/~kkahatapitiy/" target="_blank">Kumara Kahatapitiya</a> (Stony Brook University CS)<br>
+<a href="https://elicassion.github.io/" target="_blank">Jinghuan Shang</a> (Stony Brook University CS)<br>
+<a href="https://xxli.me/" target="_blank">Xiang Li</a> (Stony Brook University CS)<br>
+Jongwoo Park (Stony Brook University CS)<br>
+<a href="https://ryanndagreat.github.io/" target="_blank">Ryan Burgert</a> (Stony Brook University CS)<br>
+<a href="https://kahnchana.github.io/" target="_blank">Kanchana Ranasinghe</a> (Stony Brook University CS)<br>
+Abe Leite (Stony Brook University CS)<br>
+
+
+
+<h2>Alumni</h2>
+Alan Wu (PhD 2023; joined MIT Lincoln Lab)<br>
+<a href="https://srijandas07.github.io/" target="_blank">Srijan Das</a> (PostDoc 2022; joined UNC Charlotte)<br>
+<a href="https://scholar.google.com/citations?user=Nt4lak0AAAAJ&hl=en" target="_blank">AJ Piergiovanni</a> (PhD 2020; joined Google Brain)<br>
+
+<hr style="width: 100%; height: 2px;">
+<h2>Teaching</h2>
+
+<a href="http://michaelryoo.com/course/cse378/" target="_blank">CSE378: Intro to Robotics (Fall 2023)</a><br>
+
+<a href="http://michaelryoo.com/course/cse525/" target="_blank">CSE525: Robotics (Spring 2023)</a><br>
+
+<a href="http://michaelryoo.com/course/cse527/" target="_blank">CSE527: Intro to Computer Vision (Fall 2021)</a><br>
+
+<a href="http://homes.soic.indiana.edu/classes/spring2018/csci/b457-mryoo/" target="_blank">B457/I400: Intro to Computer Vision (Spring 2018)</a><br>
+
+<a href="http://homes.soic.indiana.edu/classes/fall2017/csci/b659-mryoo/" target="_blank">B659/I590: Vision for Intelligent Robotics (Fall 2017)</a><br>
+
+
+<hr style="width: 100%; height: 2px;">
+
+<p align="right"><span style="font-size: 13px;">Updated 02/2024</span></p>
+
+</td></tr>
+</tbody></table>
+
+
+
+</body></html>
